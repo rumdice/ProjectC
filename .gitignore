@@ -24,9 +24,19 @@
 *.lai
 *.la
 *.a
-*.lib
+#*.lib
 
 # Executables
 *.exe
 *.out
 *.app
+
+# visual studio
+.vs/
+bin/
+obj/
+Debug/
+
+
+*.filters
+*.user

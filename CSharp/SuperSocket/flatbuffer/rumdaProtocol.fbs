@@ -1,0 +1,13 @@
+namespace rumda.Protocol;
+
+enum MessageId:ushort {
+	GS2C_Test = 6990,
+    GS2C_Echo = 6999,
+}
+
+table Player {
+    IsLeader:bool = false;
+    playerId:string;
+    nickName:string;
+    level:long;
+}
