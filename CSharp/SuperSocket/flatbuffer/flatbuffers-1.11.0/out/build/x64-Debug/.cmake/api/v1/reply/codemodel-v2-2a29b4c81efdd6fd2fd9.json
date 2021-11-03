@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FlatBuffers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "flatbuffers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flatbuffers-Debug-dbae7a938dc7522951c4.json",
+					"name" : "flatbuffers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flatc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flatc-Debug-ff3bf8c84a74f596c59b.json",
+					"name" : "flatc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flathash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flathash-Debug-82ef77c657c5f5ecf38e.json",
+					"name" : "flathash",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flatsamplebfbs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flatsamplebfbs-Debug-09ae8486d7e1552503e6.json",
+					"name" : "flatsamplebfbs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flatsamplebinary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flatsamplebinary-Debug-f045899f149fee0ddfb3.json",
+					"name" : "flatsamplebinary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flatsampletext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flatsampletext-Debug-0c3804c81cc3b2b42990.json",
+					"name" : "flatsampletext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flattests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flattests-Debug-dec70e2216ffc1eb0d83.json",
+					"name" : "flattests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rumdi/OneDrive/문서/GitHub/ProjectC/CSharp/SuperSocket/flatbuffer/flatbuffers-1.11.0/out/build/x64-Debug",
+		"source" : "C:/Users/rumdi/OneDrive/문서/GitHub/ProjectC/CSharp/SuperSocket/flatbuffer/flatbuffers-1.11.0"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
